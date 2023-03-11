@@ -5,8 +5,10 @@ body {
 }
 
 nav img {
-  border-radius: 50%;
+  border-radius: var(--nav-img-radius);
   width: 40px;
+  height: 40px;
+  aspect-ratio: 1/1;
   margin-left: 0.5rem;
 }
 
@@ -17,6 +19,7 @@ nav {
   height: 55px;
   display: flex;
   align-items: center;
+  border: var(--nav-border);
 }
 
 nav p {

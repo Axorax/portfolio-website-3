@@ -1,6 +1,8 @@
 // ::     Settings    ::
+
 const DISCORD_NAME_AND_TAG = "Axorax#3184";
 const POPUP_DURATION = 2000;
+
 // ::       End       ::
 
 const popup = document.querySelector(".popup");

@@ -5,6 +5,8 @@
     --font: "Josefin Sans", sans-serif;
     --body-bg: #111111;
     --nav-bg: #282828a7;
+    --nav-border: 1px solid #343434;
+    --nav-img-radius: 50%;
     --text: #fff;
     --primary-btn-color: #fff;
     --secondary-btn-color: #dadada;
